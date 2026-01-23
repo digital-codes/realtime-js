@@ -1,7 +1,5 @@
 # `realtime-js` has a new home
 
-**🚨 This repository has been moved and will be archived on October 10, 2025**
-
 **All development has moved to the [Supabase JS Monorepo](https://github.com/supabase/supabase-js)**
 
 **If you're looking for the README of `realtime-js`, you can find it at:**  
